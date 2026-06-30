@@ -1,0 +1,7 @@
+__pycache__/
+Models_pycache/
+Data_Sets/
+Static/uploads/
+*.pyc
+.env
+venv/
